@@ -1,0 +1,6 @@
+plugin:
+    name: 'zaxbux.slider::lang.plugin.name'
+    description: 'zaxbux.slider::lang.plugin.description'
+    author: 'Zachary Schneider'
+    icon: oc-icon-image
+    homepage: 'https://www.zacharyschneider.ca/'
